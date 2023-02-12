@@ -18,4 +18,4 @@ jobs:
     - name: make
       run: make
     - name: Run Test
-      run: /home/runner/work/GTest/runTests
+      run: /home/runner/work/GTest/GTest/runTests
