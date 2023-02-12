@@ -5,5 +5,7 @@ Example on how to integrate gtest test into [github actions](https://github.com/
 
 # Compilation and Execution Step
 $cmake CMakeLists.txt
+
 $make
+
 $./runTests
