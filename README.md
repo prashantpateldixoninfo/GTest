@@ -4,6 +4,6 @@
 Example on how to integrate gtest test into [github actions](https://github.com/features/actions). 
 
 # Compilation and Execution Step
-cmake CMakeLists.txt
-make
-./runTests
+$cmake CMakeLists.txt
+$make
+$./runTests
